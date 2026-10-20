@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "fix/issue-1986-prove-init-threshold-monitoring-is-safe-to-call",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1986-prove-init-threshold-monitoring-is-safe-to-call": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "fix/issue-1986-prove-init-threshold-monitoring-is-safe-to-call",
+    "origin"
+  ]
+}
